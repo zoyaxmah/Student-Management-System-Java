@@ -1,0 +1,3 @@
+Eisha,Chandra,,43256789,Female,02-12-2003,12 ,Cartmel Avenue,Massey,Auckland,0614,0224379545,eisha@gmail.com,COMP506,COMP343,COMP222,COMP121,Bachelor of Arts,South,Summer School
+Navreet,Kaur,nav,20116571,Female ,09-10-2002,3,Aviation Street,Takanini,Auckland,2112,0225217917,Navreet.kaur2002@gmail.com,COMP613,COMP603,COMP719,COMP610,Bachelor of Computer Science ,City,2
+Navreet,Kaur,,20116571,Female,09-10-2002,3,Aviation ,Takanini,Auckland ,2112,0225217917,navreet@gmail.com,COMP513,COMP719,COMP610,COMP719,Bachelor of Coumputer ,City,1
